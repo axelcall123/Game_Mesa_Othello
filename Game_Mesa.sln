@@ -1,0 +1,40 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30413.136
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "Game_Mesa", ".", "{D755ED6A-2835-46A5-B69B-6C2CD8A1D197}"
+	ProjectSection(WebsiteProperties) = preProject
+		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.0"
+		Debug.AspNetCompiler.VirtualPath = "/localhost_62524"
+		Debug.AspNetCompiler.PhysicalPath = "D:\AXEL\DOCUMENTOS\U\GITHUB\Game_Mesa\"
+		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_62524\"
+		Debug.AspNetCompiler.Updateable = "true"
+		Debug.AspNetCompiler.ForceOverwrite = "true"
+		Debug.AspNetCompiler.FixedNames = "false"
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.VirtualPath = "/localhost_62524"
+		Release.AspNetCompiler.PhysicalPath = "D:\AXEL\DOCUMENTOS\U\GITHUB\Game_Mesa\"
+		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_62524\"
+		Release.AspNetCompiler.Updateable = "true"
+		Release.AspNetCompiler.ForceOverwrite = "true"
+		Release.AspNetCompiler.FixedNames = "false"
+		Release.AspNetCompiler.Debug = "False"
+		VWDPort = "62524"
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D755ED6A-2835-46A5-B69B-6C2CD8A1D197}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D755ED6A-2835-46A5-B69B-6C2CD8A1D197}.Debug|Any CPU.Build.0 = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {653E3D75-1312-4DB1-8DC1-EC52C8B93665}
+	EndGlobalSection
+EndGlobal

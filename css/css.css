@@ -1,2 +1,27 @@
-﻿body {
+﻿* {
+  text-align: center;
+  margin:0px;
+  padding:0px;
+  list-style: none;
+  text-decoration: none;
+  box-sizing: border-box;/*SIRVE PARA LOS BORDES QUE CUENTE COMO TAMAÑO*/
+  text-align: center;
+}
+
+body {
+  background: rgb(189, 214, 142);
+}
+#juego div div{
+  width: 10%;
+  height: 10%;
+  border: solid red 0.05px;
+  float: left;
+
+}
+.fila{
+  display: table;/*PERMITE NO TRSASPASAR A OTRA FILA*/
+  clear: both;
+  width: 90%;
+  height: auto;
+  border: solid black 0.05px;
 }
